@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Prk1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|C:\\Users\\hp\\source\\repos\\Prk1\\prk1\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|solutionrelative:prk1\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|c:\\users\\hp\\source\\repos\\prk1\\prk1\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|solutionrelative:prk1\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|C:\\Users\\hp\\source\\repos\\Prk1\\prk1\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|solutionrelative:prk1\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|C:\\Users\\hp\\source\\repos\\Prk1\\prk1\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|solutionrelative:prk1\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|C:\\Users\\hp\\source\\repos\\Prk1\\prk1\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|solutionrelative:prk1\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|C:\\Users\\hp\\source\\repos\\Prk1\\prk1\\viewmodels\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|solutionrelative:prk1\\viewmodels\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|C:\\Users\\hp\\source\\repos\\Prk1\\prk1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|solutionrelative:prk1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|C:\\Users\\hp\\source\\repos\\Prk1\\prk1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|solutionrelative:prk1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|C:\\Users\\hp\\source\\repos\\Prk1\\prk1\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|solutionrelative:prk1\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|C:\\Users\\hp\\source\\repos\\Prk1\\prk1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|solutionrelative:prk1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|C:\\Users\\hp\\source\\repos\\Prk1\\prk1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|solutionrelative:prk1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|C:\\Users\\hp\\source\\repos\\Prk1\\prk1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|solutionrelative:prk1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|C:\\Users\\hp\\source\\repos\\Prk1\\prk1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|solutionrelative:prk1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|C:\\Users\\hp\\source\\repos\\Prk1\\prk1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|solutionrelative:prk1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|C:\\Users\\hp\\source\\repos\\Prk1\\prk1\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|solutionrelative:prk1\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|C:\\Users\\hp\\source\\repos\\Prk1\\prk1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|solutionrelative:prk1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|C:\\Users\\hp\\source\\repos\\Prk1\\prk1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|solutionrelative:prk1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|C:\\Users\\hp\\source\\repos\\Prk1\\prk1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|solutionrelative:prk1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|C:\\Users\\hp\\source\\repos\\Prk1\\prk1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|solutionrelative:prk1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|C:\\Users\\hp\\source\\repos\\Prk1\\prk1\\prk1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|solutionrelative:prk1\\prk1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Migrations\\20240521061319_CreateDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|solutionrelative:Prk1\\Migrations\\20240521061319_CreateDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Migrations\\20240521192113_ChangeTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B935E4-D302-4BBA-8BA9-2B82D37DB1FC}|Prk1\\Prk1.csproj|solutionrelative:Prk1\\Migrations\\20240521192113_ChangeTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\ViewModels\\CreateProductVM.cs",
+              "RelativeDocumentMoniker": "Prk1\\ViewModels\\CreateProductVM.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\ViewModels\\CreateProductVM.cs",
+              "RelativeToolTip": "Prk1\\ViewModels\\CreateProductVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:54:19.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Prk1\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Areas\\Admin\\Views\\Product\\Index.cshtml*",
+              "RelativeToolTip": "Prk1\\Areas\\Admin\\Views\\Product\\Index.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T06:44:18.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Prk1\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Prk1\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T09:49:56.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Prk1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Prk1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T06:50:48.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Prk1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Prk1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:20:43.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Prk1\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Models\\Product.cs",
+              "RelativeToolTip": "Prk1\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:36:52.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Prk1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Prk1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T08:20:04.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Prk1\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Prk1\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:41:06.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240521192113_ChangeTables.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Migrations\\20240521192113_ChangeTables.cs",
+              "RelativeDocumentMoniker": "Prk1\\Migrations\\20240521192113_ChangeTables.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Migrations\\20240521192113_ChangeTables.cs",
+              "RelativeToolTip": "Prk1\\Migrations\\20240521192113_ChangeTables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:21:14.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Prk1\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Prk1\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:33:59.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Prk1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Prk1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T05:21:17.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Prk1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Prk1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T05:21:18.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Prk1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Prk1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwCEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T05:21:07.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Prk1\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Models\\Category.cs",
+              "RelativeToolTip": "Prk1\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:35:54.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Dal\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Prk1\\Dal\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Dal\\AppDbContext.cs",
+              "RelativeToolTip": "Prk1\\Dal\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:42:56.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Prk1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Prk1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAE4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T06:35:15.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Prk1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Prk1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAQwHoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T05:27:01.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Prk1\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Prk1\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-21T06:29:02.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Program.cs",
+              "RelativeDocumentMoniker": "Prk1\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Program.cs",
+              "RelativeToolTip": "Prk1\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:26:13.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240521061319_CreateDB.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Migrations\\20240521061319_CreateDB.cs",
+              "RelativeDocumentMoniker": "Prk1\\Migrations\\20240521061319_CreateDB.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Migrations\\20240521061319_CreateDB.cs",
+              "RelativeToolTip": "Prk1\\Migrations\\20240521061319_CreateDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:13:19.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\appsettings.json",
+              "RelativeDocumentMoniker": "Prk1\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\appsettings.json",
+              "RelativeToolTip": "Prk1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T05:50:25.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Prk1",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Prk1.csproj",
+              "RelativeDocumentMoniker": "Prk1\\Prk1.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Prk1\\Prk1\\Prk1.csproj",
+              "RelativeToolTip": "Prk1\\Prk1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-21T06:01:07.304Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
